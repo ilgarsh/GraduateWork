@@ -1,7 +1,8 @@
 # Graduate Work
 <p>Theme: Service for voting on the basis of Blockchain Technology. </p>
  
-<p>Useful resources:</p>
+<p>Links:</p>
 
-* https://web3j.io
+* [Wiki](https://github.com/ilgarsh/GraduateWork/wiki)
+* [Front-end repository](https://github.com/polytech-frontend-2017/shakhbazov-course-project)
 * ...
